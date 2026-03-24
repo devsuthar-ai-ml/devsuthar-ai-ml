@@ -1,149 +1,349 @@
-<!-- HEADER -->
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════
+     DEV SUTHAR — GitHub Profile README (TOP 0.1% EDITION)
+     Replace all <!-- REPLACE: ... --> comments with your actual content
+     ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B66C2&height=200§ion=header&text=Dev%20Suthar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20Generative%20AI&descAlignY=55&descAlign=50" />
+<!-- ▸ HERO BANNER ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0077B6&height=220&section=header&text=Dev%20Suthar&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Generative%20AI&descAlignY=58&descSize=20&descColor=ADE8F4" width="100%" />
+</p>
 
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devsuthar-ai-ml)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsuthar1104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devsuthar-ai-ml)
-[![Profile Views](https://komarev.com/ghpvc/?username=devsuthar-ai-ml&style=for-the-badge&color=0B66C2)](https://github.com/devsuthar-ai-ml)
+<!-- ▸ TYPING ANIMATION ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;RAG+%7C+NLP+%7C+LLMs+%7C+MLOps+%7C+Predictive+ML;Every+repo+is+a+working+system+%E2%80%94+not+a+tutorial+clone;Open+to+AI+%2F+ML+Engineer+roles+%F0%9F%9F%A2" alt="Typing SVG" />
+  </a>
+</p>
 
-</div>
+<!-- ▸ STATUS BADGES ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devsuthar-ai-ml&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS" />
+  &nbsp;
+  <a href="https://linkedin.com/in/devsuthar-ai-ml">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:devsuthar1104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devsuthar1104%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+<br/>
 
 ---
 
-## 👋 About Me
+## About Me
+
+I'm an AI/ML Engineer in my final year of BSc IT, focused on building **real production systems** — not demos.
+
+My work spans Retrieval-Augmented Generation, NLP pipelines, time-series ML, and end-to-end MLOps infrastructure.
+I care about the gap between research and deployment, and every project I build is designed to close it.
 
 ```python
-dev = {
-    "name"      : "Dev Suthar",
-    "role"      : "AI Engineer (Fresher) | Final Year BSc IT",
-    "location"  : "Ahmedabad, Gujarat, India",
-    "focus"     : ["Machine Learning", "NLP", "RAG", "Generative AI"],
-    "internship": "Data Science & ML Intern @ Zaalima Development Pvt Ltd",
-    "status"    : "Open to AI Engineer / ML Engineer roles 🟢",
-    "contact"   : "devsuthar1104@gmail.com"
+profile = {
+    "name"       : "Dev Suthar",
+    "role"       : "AI / ML Engineer",
+    "location"   : "Ahmedabad, Gujarat, India",
+    "education"  : "Final Year BSc IT (Graduating 2026)",
+    "internship" : "Data Science & ML Intern @ Zaalima Development Pvt Ltd",
+    "interests"  : ["RAG Systems", "NLP", "Generative AI", "Predictive ML", "MLOps"],
+    "open_to"    : ["AI Engineer", "ML Engineer", "Gen AI Engineer", "Data Scientist"],
+    "principle"  : "Ship working AI — not notebooks that never leave localhost."
 }
 ```
 
-> Building real-world AI systems — from RAG-powered Q&A platforms to IoT predictive maintenance engines.
-> Every repo here is a working system, not just a tutorial clone.
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🤖 [RAG Document Q&A Platform](https://github.com/devsuthar-ai-ml/rag-document-qa-platform)
-> **LangChain · FAISS · FastAPI · Streamlit · Docker · OpenAI API**
+### AI / ML / Deep Learning
 
-Production-ready Retrieval-Augmented Generation system that answers natural language questions over 15,000+ documents.
-- ✅ **91% answer accuracy** on domain-specific queries
-- ✅ **45% faster retrieval** via optimized chunking and embedding strategy
-- ✅ **200+ daily active users** — deployed with Docker and CI/CD
-
----
-
-### 📄 [AI Resume Analyzer Platform](https://github.com/devsuthar-ai-ml/ai-resume-analyzer-platform)
-> **Python · spaCy · NLP · FastAPI · React · PostgreSQL**
-
-Full-stack AI platform that extracts skills from resumes, scores candidate-job description match, and generates improvement suggestions using NLP.
-- ✅ NLP-powered skill extraction and scoring engine
-- ✅ REST API backend (FastAPI) + React frontend
-- ✅ PostgreSQL for persistent result storage
-
----
-
-### 🏭 [FactoryGuard AI](https://github.com/devsuthar-ai-ml/factoryguard-ai)
-> **XGBoost · LightGBM · SHAP · Flask · Time-Series ML**
-
-IoT-integrated predictive maintenance engine for industrial robotic arms using time-series machine learning with full explainability.
-- ✅ **94% fault-detection accuracy** on time-series sensor data
-- ✅ SHAP explainability — shows which features drive each prediction
-- ✅ Real-time Flask REST API for live production monitoring
-
----
-
-### 📜 [LexiScan Auto](https://github.com/devsuthar-ai-ml/lexiscan-auto)
-> **Python · spaCy NER · OCR · FastAPI · Docker**
-
-Automated legal document intelligence system — extracts parties, dates, amounts, and termination clauses from scanned PDFs using OCR + Named Entity Recognition.
-- ✅ **92%+ entity extraction accuracy** from scanned PDFs
-- ✅ Supports both digital and scanned documents (Tesseract OCR)
-- ✅ Deployed via FastAPI with Docker — web UI + REST API
-
----
-
-## 🛠️ Tech Stack
-
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-2BAF2B?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a2e" height="47" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&labelColor=1a1a2e" height="47" />
+  <img src="https://img.shields.io/badge/LightGBM-2BAF2B?style=flat-square&labelColor=1a1a2e" height="47" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" height="47" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" height="47" />
+</p>
 
 ### Generative AI / NLP
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
+</p>
 
----
+### Backend / APIs / Databases
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,mongodb,redis,mysql&theme=dark" />
+</p>
 
-<div align="center">
+### MLOps / DevOps / Cloud
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=devsuthar-ai-ml&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsuthar-ai-ml&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white&labelColor=1a1a2e" height="47" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white&labelColor=1a1a2e" height="47" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white&labelColor=1a1a2e" height="47" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white&labelColor=1a1a2e" height="47" />
+</p>
 
-</div>
-
----
-
-## 🏆 Certifications
-
-| Year | Certificate | Issuer |
-|------|-------------|--------|
-| 2025 | Data Analytics Job Simulation | Deloitte (Forage) |
-| 2025 | Data Science Job Simulation | BCG (Forage) |
-| 2025 | Basics of Machine Learning | Coding Ninjas |
-| 2024 | Google AI Essentials | Coursera |
+<br/>
 
 ---
 
-## 💼 Experience
+## Featured Projects
 
-**🔹 Data Science & ML Intern** — Zaalima Development Pvt Ltd *(Jan 2026 – Present)*
-Built ETL pipelines, trained Scikit-learn models (85%+ accuracy), automated SQL reporting workflows.
+<!-- ══════════════════════════════════════════════════════════════
+     REPLACE: Update repo links, metrics, and descriptions below
+     ══════════════════════════════════════════════════════════════ -->
 
-**🔹 Trainee Developer** — Triam Security *(Jul 2024 – Apr 2025)*
-Python automation scripts, SQL log-analysis pipelines, Git-based Linux development.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 RAG Document Q&A Platform
+
+> `LangChain` `FAISS` `FastAPI` `Streamlit` `Docker` `OpenAI`
+
+Production-ready Retrieval-Augmented Generation system for natural language queries over large document corpora.
+
+**Results:**
+- 91% answer accuracy on domain-specific queries
+- 45% faster retrieval via optimized chunking strategy
+- 200+ daily active users on Docker + CI/CD deployment
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devsuthar-ai-ml/rag-document-qa-platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 FactoryGuard AI
+
+> `XGBoost` `LightGBM` `SHAP` `Flask` `Time-Series`
+
+IoT-integrated predictive maintenance for industrial robotic arms — time-series ML with full explainability via SHAP.
+
+**Results:**
+- 94% fault-detection accuracy on sensor time-series
+- Real-time REST API for live production monitoring
+- Feature-level SHAP explanations per prediction
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devsuthar-ai-ml/factoryguard-ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 AI Resume Analyzer
+
+> `spaCy` `NLP` `FastAPI` `React` `PostgreSQL`
+
+Full-stack AI platform: NLP-powered skill extraction, candidate-JD scoring, and automated improvement suggestions.
+
+**Results:**
+- NLP pipeline for entity + skill extraction
+- FastAPI backend + React frontend
+- PostgreSQL for persistent result storage
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devsuthar-ai-ml/ai-resume-analyzer-platform)
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 LexiScan Auto
+
+> `spaCy NER` `Tesseract OCR` `FastAPI` `Docker`
+
+Automated legal document intelligence — extracts parties, dates, amounts, and clauses from scanned PDFs using OCR + NER.
+
+**Results:**
+- 92%+ entity extraction accuracy from scanned PDFs
+- Supports both digital and scanned documents
+- FastAPI + Docker: web UI + REST API
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/devsuthar-ai-ml/lexiscan-auto)
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════════════════════════════════════════
+     REPLACE: Add your next project card above when ready
+     ══════════════════════════════════════════════════════════════ -->
+
+<br/>
 
 ---
 
-## 📬 Connect With Me
+## MLOps Pipeline Framework
 
-<div align="center">
+<!-- ══════════════════════════════════════════════════════════════
+     This is your flagship infrastructure project — highlight it
+     ══════════════════════════════════════════════════════════════ -->
 
-**Open to AI Engineer | Machine Learning Engineer | Generative AI Engineer roles**
+> **Production ML pipeline framework** — model training, deployment, monitoring, and retraining automation.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devsuthar-ai-ml)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsuthar1104@gmail.com)
+`MLflow` `Apache Airflow` `FastAPI` `Prometheus` `Grafana` `Kubernetes` `Docker`
 
-</div>
+- End-to-end pipeline: data ingestion → training → validation → serving → monitoring
+- Auto-retraining triggers on model drift detection
+- Kubernetes deployment with Helm charts
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B66C2&height=100§ion=footer" />
+[![View Repo](https://img.shields.io/badge/View_Full_Project-181717?style=for-the-badge&logo=github)](https://github.com/devsuthar-ai-ml/mlops-pipeline-framework)
+
+<br/>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devsuthar-ai-ml&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Dev%27s+GitHub+Stats&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsuthar-ai-ml&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8&sideLabels=c9d1d9&dates=8b949e" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsuthar-ai-ml&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9" height="200" />
+</p>
+
+<br/>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devsuthar-ai-ml&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6&no-bg=true" width="100%" />
+</p>
+
+<br/>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devsuthar-ai-ml&theme=tokyo-night&hide_border=true&area=true&area_color=00B4D8&line=00B4D8&point=FFFFFF&custom_title=Dev%27s+Contribution+Graph&bg_color=0d1117" width="100%" />
+</p>
+
+<br/>
+
+---
+
+## Contribution Snake
+
+<!-- ══════════════════════════════════════════════════════════════
+     SETUP REQUIRED: Create .github/workflows/snake.yml
+     (file provided separately — snake.yml)
+     ══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devsuthar-ai-ml/devsuthar-ai-ml/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devsuthar-ai-ml/devsuthar-ai-ml/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/devsuthar-ai-ml/devsuthar-ai-ml/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+---
+
+## Experience
+
+```
+Position   Data Science & ML Intern
+Company    Zaalima Development Pvt Ltd
+Period     January 2026 – Present
+Work       ETL pipelines, Scikit-learn models (85%+ accuracy), automated SQL reporting
+
+────────────────────────────────────────────────────────────────
+
+Position   Trainee Developer
+Company    Triam Security
+Period     July 2024 – April 2025
+Work       Python automation scripts, SQL log-analysis pipelines, Git + Linux dev
+```
+
+<br/>
+
+---
+
+## Certifications
+
+<!-- ══════════════════════════════════════════════════════════════
+     REPLACE: Add new certifications as you earn them
+     ══════════════════════════════════════════════════════════════ -->
+
+| Year | Certificate | Issued By | Verify |
+|:----:|-------------|-----------|:------:|
+| 2025 | Data Analytics Job Simulation | Deloitte (Forage) | — |
+| 2025 | Data Science Job Simulation | BCG (Forage) | — |
+| 2025 | Basics of Machine Learning | Coding Ninjas | — |
+| 2024 | Google AI Essentials | Google / Coursera | — |
+
+<br/>
+
+---
+
+## Open Source
+
+<!-- ══════════════════════════════════════════════════════════════
+     REPLACE: Add your open source contributions here.
+     Contributing to any public repo counts — document it!
+     Good sources: Hugging Face, LangChain, scikit-learn, fastapi
+     ══════════════════════════════════════════════════════════════ -->
+
+> Currently contributing to open-source AI/ML tooling.
+> Will document PRs and contributions here as they land.
+
+If you maintain a library that could use an extra pair of hands on ML pipelines, documentation, or test coverage — reach out.
+
+<br/>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://linkedin.com/in/devsuthar-ai-ml">
+    <img src="https://img.shields.io/badge/LinkedIn-0B66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:devsuthar1104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/devsuthar-ai-ml">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Open to — AI Engineer &nbsp;·&nbsp; ML Engineer &nbsp;·&nbsp; Generative AI Engineer &nbsp;·&nbsp; Data Scientist</b>
+  <br/>
+  <sub>If you are building AI systems that actually need to work in production, I want to hear from you.</sub>
+</p>
+
+<br/>
+
+<!-- ▸ FOOTER WAVE ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0077B6&height=120&section=footer" width="100%" />
+</p>
