@@ -229,7 +229,7 @@ Automated legal document intelligence — extracts parties, dates, amounts, and 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devsuthar-ai-ml&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devsuthar-ai-ml&theme=tokyonight&no-frame=true&column=4&margin-w=10" width="100%" />
 </p>
 
 <br/>
