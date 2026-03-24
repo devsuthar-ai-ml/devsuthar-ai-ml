@@ -209,27 +209,24 @@ Automated legal document intelligence — extracts parties, dates, amounts, and 
 
 ---
 
-## GitHub Trophies
-
-## GitHub Trophies
+## At a Glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-300%2B-00B4D8?style=for-the-badge&logo=git&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Repositories-17-0077B6?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pull_Requests-10%2B-3fb950?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_Source-Active-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+
+| 🤖 AI / ML | 🔁 MLOps | 🗣️ NLP | ☁️ Cloud |
+|:---:|:---:|:---:|:---:|
+| RAG · LLMs · Predictive ML | Docker · Kubernetes · Airflow | spaCy · HuggingFace · FAISS | AWS · FastAPI · PostgreSQL |
+
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Specialist-412991?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-0077B6?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/RAG-Builder-FFD21E?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Education-BSc%20IT%202026-00B4D8?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MLOps-Engineer-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Python-Expert-3572A5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-FF6B35?style=flat-square" />
 </p>
 
 <br/>
