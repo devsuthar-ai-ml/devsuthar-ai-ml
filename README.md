@@ -211,8 +211,25 @@ Automated legal document intelligence — extracts parties, dates, amounts, and 
 
 ## GitHub Trophies
 
+## GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devsuthar-ai-ml&theme=tokyonight&no-frame=true&column=4&margin-w=10" width="100%" />
+  <img src="https://img.shields.io/badge/Commits-300%2B-00B4D8?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Repositories-17-0077B6?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pull_Requests-10%2B-3fb950?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_Source-Active-FF6B35?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Specialist-412991?style=for-the-badge&logo=pytorch&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG-Builder-FFD21E?style=for-the-badge&logo=openai&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MLOps-Engineer-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-Expert-3572A5?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br/>
