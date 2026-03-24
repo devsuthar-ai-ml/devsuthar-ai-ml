@@ -1,21 +1,16 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     DEV SUTHAR — GitHub Profile README (TOP 0.1% EDITION)
-     Replace all <!-- REPLACE: ... --> comments with your actual content
-     ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ▸ HERO BANNER ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<!-- ▸ HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0077B6&height=220&section=header&text=Dev%20Suthar&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Generative%20AI&descAlignY=58&descSize=20&descColor=ADE8F4" width="100%" />
 </p>
 
-<!-- ▸ TYPING ANIMATION ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<!-- ▸ TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;RAG+%7C+NLP+%7C+LLMs+%7C+MLOps+%7C+Predictive+ML;Every+repo+is+a+working+system+%E2%80%94+not+a+tutorial+clone;Open+to+AI+%2F+ML+Engineer+roles+%F0%9F%9F%A2" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- ▸ STATUS BADGES ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<!-- ▸ STATUS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devsuthar-ai-ml&style=for-the-badge&color=0077B6&label=PROFILE+VIEWS" />
   &nbsp;
@@ -107,10 +102,6 @@ profile = {
 
 ## Featured Projects
 
-<!-- ══════════════════════════════════════════════════════════════
-     REPLACE: Update repo links, metrics, and descriptions below
-     ══════════════════════════════════════════════════════════════ -->
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -182,19 +173,11 @@ Automated legal document intelligence — extracts parties, dates, amounts, and 
 </tr>
 </table>
 
-<!-- ══════════════════════════════════════════════════════════════
-     REPLACE: Add your next project card above when ready
-     ══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
 ---
 
 ## MLOps Pipeline Framework
-
-<!-- ══════════════════════════════════════════════════════════════
-     This is your flagship infrastructure project — highlight it
-     ══════════════════════════════════════════════════════════════ -->
 
 > **Production ML pipeline framework** — model training, deployment, monitoring, and retraining automation.
 
@@ -215,7 +198,7 @@ Automated legal document intelligence — extracts parties, dates, amounts, and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsuthar-ai-ml&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Dev%27s+GitHub+Stats&bg_color=0d1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devsuthar-ai-ml&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8&sideLabels=c9d1d9&dates=8b949e" height="180" />
+  <img src="https://streak-stats.demolab.com?user=devsuthar-ai-ml&theme=tokyonight&hide_border=true&background=0d1117&ring=00B4D8&fire=FF6B35&currStreakLabel=00B4D8&sideLabels=c9d1d9&dates=8b949e" height="180" />
 </p>
 
 <p align="center">
@@ -247,11 +230,6 @@ Automated legal document intelligence — extracts parties, dates, amounts, and 
 ---
 
 ## Contribution Snake
-
-<!-- ══════════════════════════════════════════════════════════════
-     SETUP REQUIRED: Create .github/workflows/snake.yml
-     (file provided separately — snake.yml)
-     ══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <picture>
@@ -287,10 +265,6 @@ Work       Python automation scripts, SQL log-analysis pipelines, Git + Linux de
 
 ## Certifications
 
-<!-- ══════════════════════════════════════════════════════════════
-     REPLACE: Add new certifications as you earn them
-     ══════════════════════════════════════════════════════════════ -->
-
 | Year | Certificate | Issued By | Verify |
 |:----:|-------------|-----------|:------:|
 | 2025 | Data Analytics Job Simulation | Deloitte (Forage) | — |
@@ -303,12 +277,6 @@ Work       Python automation scripts, SQL log-analysis pipelines, Git + Linux de
 ---
 
 ## Open Source
-
-<!-- ══════════════════════════════════════════════════════════════
-     REPLACE: Add your open source contributions here.
-     Contributing to any public repo counts — document it!
-     Good sources: Hugging Face, LangChain, scikit-learn, fastapi
-     ══════════════════════════════════════════════════════════════ -->
 
 > Currently contributing to open-source AI/ML tooling.
 > Will document PRs and contributions here as they land.
@@ -343,7 +311,7 @@ If you maintain a library that could use an extra pair of hands on ML pipelines,
 
 <br/>
 
-<!-- ▸ FOOTER WAVE ▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸▸ -->
+<!-- ▸ FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:0077B6&height=120&section=footer" width="100%" />
 </p>
